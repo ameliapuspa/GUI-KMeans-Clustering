@@ -7,3 +7,5 @@ This Python-based application provides a simple graphical user interface (GUI) f
 - **Centroid Calculation**: Displays the centroids of each cluster after processing the data.
 - **Scatter Plot Visualization**: Provides a scatter plot showing the clustered data points and centroids.
 - **Assumption Testing**: Includes multicollinearity checks (correlation matrix), Bartlett's test, and KMO (Kaiser-Meyer-Olkin) test for ensuring the assumptions behind clustering are met.
+## Output
+![alt_text](https://github.com/ameliapuspa/GUI-KMeans-Clustering/blob/main/Resources/Output%20GUI.png?raw=true)
